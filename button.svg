@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="20" viewBox="0 0 80 20">
+  <rect width="80" height="20" rx="10" ry="10" fill="#002147" />
+  <text x="40" y="13" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">Search @ URI</text>
+</svg>
